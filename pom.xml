@@ -10,7 +10,7 @@
 
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
-  <version>5.0.3</version>
+  <version>6.0.0</version>
 
   <name>petclinic</name>
 
